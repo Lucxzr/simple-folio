@@ -1,0 +1,33 @@
+body, html
+{color: #fff ;background-color: #c5dfe0; border-radius: 15px;
+margin: 0;
+height: 100vh;
+}
+#paragrafo{ color: #4d3e6b;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold; font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin: 0;
+    
+
+}
+.nome{
+    color:#81749c ;
+}
+.botao-sobre-mim {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold; font-size: 16px;
+    padding: 10px 20px;
+    color: #81749c; 
+    background-color: transparent; 
+    border: 2px solid #4d3e6b; 
+    border-radius: 5px; 
+    margin: -100px 0 0 271px;
+    margin-left: 271px;
+    position: relative;
+    top: -159px;
+    left: 0px;
+}
